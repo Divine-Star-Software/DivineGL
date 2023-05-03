@@ -1,0 +1,15 @@
+{
+  "name": "divine-gl-dev",
+  "version": "0.0.0",
+  "main": "index.js",
+  "type": "module",
+  "typings": "index.ts",
+  "description": "A simple graphics library for JavaScript. ",
+  "keywords": [],
+  "repository": {
+    "url": "https://github.com/Divine-Star-Software/DivineGL"
+  },
+  "homepage": "https://github.com/Divine-Star-Software/DivineGL",
+  "author": "Divine Star Software",
+  "license": "MIT"
+}

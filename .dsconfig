@@ -1,0 +1,32 @@
+{
+ "sources": [
+  {
+   "dir": "D:/DSSoftware/DSLIBS/starCommand/dist",
+   "fileExtensions": [
+    "js",
+    "d.ts"
+   ],
+   "id": "dist"
+  }
+ ],
+ "outputs": [
+  {
+   "dir": "D:/DSSoftware/DSLIBS/diivneGL/tests/electron/app/out",
+   "sourceID": "dist",
+   "codeSection": "all",
+   "keepComments": true
+  },
+  {
+   "dir": "D:/DSSoftware/DSLIBS/diivneGL/tests/electron/out",
+   "sourceID": "dist",
+   "codeSection": "all",
+   "keepComments": true
+  }
+ ],
+ "codeSections": {
+  "test": {
+   "start": "@ds-test-start",
+   "end": "@ds-test-end"
+  }
+ }
+}
